@@ -18,4 +18,4 @@ Averagexnuminputs = sum(xnuminputs) / len(xnuminputs)
 #Print the list and the average to console 
 print("The entered numbers are: ", xnuminputs, "The Average of those numbers is: ", Averagexnuminputs)
 
-#He
+
