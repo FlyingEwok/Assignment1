@@ -1,6 +1,6 @@
 '''You will design a program that will ask the user to input an x number of elements. Then the program will give an average. Hint( You will want to ask the user to provide the number of elements initially. )'''
 
-#Make a list of user inputed numbers      Note to self create a loop to make user be able to enetr how many nums they want
+#Make a list of user inputed numbers
 xnuminputs = []
 
 #Ask user to enter numbers until they're done
