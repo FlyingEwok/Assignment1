@@ -19,4 +19,4 @@ Averagexnuminputs = sum(xnuminputs) / len(xnuminputs)
 print("The entered numbers are: ", xnuminputs, "The Average of those numbers is: ", Averagexnuminputs)
 
 
-hi
+
